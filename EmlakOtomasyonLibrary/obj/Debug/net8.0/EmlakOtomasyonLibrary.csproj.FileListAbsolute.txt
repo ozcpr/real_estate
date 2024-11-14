@@ -1,0 +1,11 @@
+C:\Users\OZANCRP\source\repos\emlak_otomasyonu\EmlakOtomasyonLibrary\bin\Debug\net8.0\EmlakOtomasyonLibrary.deps.json
+C:\Users\OZANCRP\source\repos\emlak_otomasyonu\EmlakOtomasyonLibrary\bin\Debug\net8.0\EmlakOtomasyonLibrary.dll
+C:\Users\OZANCRP\source\repos\emlak_otomasyonu\EmlakOtomasyonLibrary\bin\Debug\net8.0\EmlakOtomasyonLibrary.pdb
+C:\Users\OZANCRP\source\repos\emlak_otomasyonu\EmlakOtomasyonLibrary\obj\Debug\net8.0\EmlakOtomasyonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OZANCRP\source\repos\emlak_otomasyonu\EmlakOtomasyonLibrary\obj\Debug\net8.0\EmlakOtomasyonLibrary.AssemblyInfoInputs.cache
+C:\Users\OZANCRP\source\repos\emlak_otomasyonu\EmlakOtomasyonLibrary\obj\Debug\net8.0\EmlakOtomasyonLibrary.AssemblyInfo.cs
+C:\Users\OZANCRP\source\repos\emlak_otomasyonu\EmlakOtomasyonLibrary\obj\Debug\net8.0\EmlakOtomasyonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\OZANCRP\source\repos\emlak_otomasyonu\EmlakOtomasyonLibrary\obj\Debug\net8.0\EmlakOtomasyonLibrary.dll
+C:\Users\OZANCRP\source\repos\emlak_otomasyonu\EmlakOtomasyonLibrary\obj\Debug\net8.0\refint\EmlakOtomasyonLibrary.dll
+C:\Users\OZANCRP\source\repos\emlak_otomasyonu\EmlakOtomasyonLibrary\obj\Debug\net8.0\EmlakOtomasyonLibrary.pdb
+C:\Users\OZANCRP\source\repos\emlak_otomasyonu\EmlakOtomasyonLibrary\obj\Debug\net8.0\ref\EmlakOtomasyonLibrary.dll
