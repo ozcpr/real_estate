@@ -66,7 +66,7 @@ namespace EmlakOtomasyonGui
         {
             try
             {
-                // Update the fields of the selected property
+                // Update the fields of the selected prop
                 ev.OdaSayisi = int.Parse(txt_odaSayisi.Text);
                 ev.KatNumarasi = int.Parse(txt_katNumarasi.Text);
                 ev.Semti = txt_semti.Text;
@@ -83,11 +83,12 @@ namespace EmlakOtomasyonGui
                     satilikEv.Fiyat = double.Parse(txt_fiyat.Text);
                 }
 
-                // Updating the list with the modified property
+                // Updating the list
                 YeniEvEkleForm.evListesi[index] = ev;
 
                 MessageBox.Show("Ev bilgileri başarıyla güncellendi!", "Başarılı", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                this.Close(); // Close the form after saving the changes
+                YeniEvEkleForm.DosyayaKaydet();
+                this.Close();
             }
             catch (Exception ex)
             {

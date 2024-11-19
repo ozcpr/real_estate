@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|c:\\users\\ozancrp\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\evlerilisteleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\evlerilisteleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|c:\\users\\ozancrp\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\yenievekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\yenievekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|c:\\users\\ozancrp\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\evlerilisteleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\evlerilisteleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\evduzenleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\evduzenleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|c:\\users\\ozancrp\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\yenievekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\yenievekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\evlerilisteleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\evlerilisteleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|c:\\users\\ozancrp\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\evduzenleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\evduzenleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|c:\\users\\ozancrp\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|c:\\users\\ozancrp\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\yenievekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\yenievekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|c:\\users\\ozancrp\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|c:\\users\\ozancrp\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\evduzenleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\evduzenleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\yenievekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\yenievekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|c:\\users\\ozancrp\\source\\repos\\emlak_otomasyonu\\emlakotomasyongui\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{077C5470-0FEF-4ABD-A567-8D91D4424354}|EmlakOtomasyonGui\\EmlakOtomasyonGui.csproj|solutionrelative:emlakotomasyongui\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{509AA284-38C0-4406-9BF9-EFA8EAD58FE1}|EmlakOtomasyonLibrary\\EmlakOtomasyonLibrary.csproj|c:\\users\\ozancrp\\source\\repos\\emlak_otomasyonu\\emlakotomasyonlibrary\\satilikev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,44 +78,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\Program.cs",
-              "RelativeDocumentMoniker": "EmlakOtomasyonGui\\Program.cs",
-              "ToolTip": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\Program.cs",
-              "RelativeToolTip": "EmlakOtomasyonGui\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AnaEkran.cs",
+              "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\AnaEkran.cs",
+              "RelativeDocumentMoniker": "EmlakOtomasyonGui\\AnaEkran.cs",
+              "ToolTip": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\AnaEkran.cs",
+              "RelativeToolTip": "EmlakOtomasyonGui\\AnaEkran.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:51:55.395Z",
+              "WhenOpened": "2024-11-14T11:48:23.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AnaEkran.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\AnaEkran.cs",
-              "RelativeDocumentMoniker": "EmlakOtomasyonGui\\AnaEkran.cs",
-              "ToolTip": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\AnaEkran.cs [Design]",
-              "RelativeToolTip": "EmlakOtomasyonGui\\AnaEkran.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T23:48:39.113Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "YeniEvEkleForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\YeniEvEkleForm.cs",
-              "RelativeDocumentMoniker": "EmlakOtomasyonGui\\YeniEvEkleForm.cs",
-              "ToolTip": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\YeniEvEkleForm.cs [Design]",
-              "RelativeToolTip": "EmlakOtomasyonGui\\YeniEvEkleForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T14:44:03.481Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "EvDuzenleForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\EvDuzenleForm.cs",
               "RelativeDocumentMoniker": "EmlakOtomasyonGui\\EvDuzenleForm.cs",
@@ -128,6 +104,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EvleriListeleForm.cs",
+              "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\EvleriListeleForm.cs",
+              "RelativeDocumentMoniker": "EmlakOtomasyonGui\\EvleriListeleForm.cs",
+              "ToolTip": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\EvleriListeleForm.cs",
+              "RelativeToolTip": "EmlakOtomasyonGui\\EvleriListeleForm.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAE0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:07:53.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YeniEvEkleForm.cs",
+              "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\YeniEvEkleForm.cs",
+              "RelativeDocumentMoniker": "EmlakOtomasyonGui\\YeniEvEkleForm.cs",
+              "ToolTip": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\YeniEvEkleForm.cs",
+              "RelativeToolTip": "EmlakOtomasyonGui\\YeniEvEkleForm.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAJAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:24:55.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GirisForm.cs",
+              "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\GirisForm.cs",
+              "RelativeDocumentMoniker": "EmlakOtomasyonGui\\GirisForm.cs",
+              "ToolTip": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\GirisForm.cs",
+              "RelativeToolTip": "EmlakOtomasyonGui\\GirisForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:49:49.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EvleriListeleForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\EvleriListeleForm.cs",
               "RelativeDocumentMoniker": "EmlakOtomasyonGui\\EvleriListeleForm.cs",
@@ -136,58 +151,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T20:02:46.689Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EvleriListeleForm.cs",
-              "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\EvleriListeleForm.cs",
-              "RelativeDocumentMoniker": "EmlakOtomasyonGui\\EvleriListeleForm.cs",
-              "ToolTip": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\EvleriListeleForm.cs",
-              "RelativeToolTip": "EmlakOtomasyonGui\\EvleriListeleForm.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:07:53.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "YeniEvEkleForm.cs",
-              "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\YeniEvEkleForm.cs",
-              "RelativeDocumentMoniker": "EmlakOtomasyonGui\\YeniEvEkleForm.cs",
-              "ToolTip": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\YeniEvEkleForm.cs",
-              "RelativeToolTip": "EmlakOtomasyonGui\\YeniEvEkleForm.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAADcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T15:24:55.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AnaEkran.cs",
-              "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\AnaEkran.cs",
-              "RelativeDocumentMoniker": "EmlakOtomasyonGui\\AnaEkran.cs",
-              "ToolTip": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\AnaEkran.cs",
-              "RelativeToolTip": "EmlakOtomasyonGui\\AnaEkran.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T11:48:23.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GirisForm.cs",
-              "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\GirisForm.cs",
-              "RelativeDocumentMoniker": "EmlakOtomasyonGui\\GirisForm.cs",
-              "ToolTip": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\GirisForm.cs",
-              "RelativeToolTip": "EmlakOtomasyonGui\\GirisForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:49:49.649Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -203,16 +166,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\Program.cs",
+              "RelativeDocumentMoniker": "EmlakOtomasyonGui\\Program.cs",
+              "ToolTip": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\Program.cs",
+              "RelativeToolTip": "EmlakOtomasyonGui\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:51:55.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YeniEvEkleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\YeniEvEkleForm.cs",
+              "RelativeDocumentMoniker": "EmlakOtomasyonGui\\YeniEvEkleForm.cs",
+              "ToolTip": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\YeniEvEkleForm.cs [Design]",
+              "RelativeToolTip": "EmlakOtomasyonGui\\YeniEvEkleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:44:03.481Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "EvDuzenleForm.cs",
               "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\EvDuzenleForm.cs",
               "RelativeDocumentMoniker": "EmlakOtomasyonGui\\EvDuzenleForm.cs",
               "ToolTip": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\EvDuzenleForm.cs",
               "RelativeToolTip": "EmlakOtomasyonGui\\EvDuzenleForm.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAAEIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAGMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T20:31:42.206Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnaEkran.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\AnaEkran.cs",
+              "RelativeDocumentMoniker": "EmlakOtomasyonGui\\AnaEkran.cs",
+              "ToolTip": "C:\\Users\\OZANCRP\\source\\repos\\emlak_otomasyonu\\EmlakOtomasyonGui\\AnaEkran.cs [Design]",
+              "RelativeToolTip": "EmlakOtomasyonGui\\AnaEkran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T23:48:39.113Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",

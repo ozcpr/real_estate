@@ -22,6 +22,9 @@ namespace EmlakOtomasyonGui
 
         private void EvleriListeleForm_Load(object sender, EventArgs e)
         {
+
+            YeniEvEkleForm.DosyadanOku(); // load data from file
+
             // Populating the dgw
             dgv_evListesi.DataSource = null;
             dgv_evListesi.DataSource = YeniEvEkleForm.evListesi;
@@ -31,6 +34,8 @@ namespace EmlakOtomasyonGui
 
         private void btn_yenile_Click(object sender, EventArgs e)
         {
+            YeniEvEkleForm.DosyadanOku(); // load data from file
+
             dgv_evListesi.DataSource = null;
             dgv_evListesi.DataSource = YeniEvEkleForm.evListesi;
 
@@ -50,6 +55,8 @@ namespace EmlakOtomasyonGui
                 {
                     YeniEvEkleForm.evListesi.RemoveAt(selectedIndex);
 
+                    YeniEvEkleForm.DosyayaKaydet(); // save data to file
+
                     dgv_evListesi.DataSource = null;
                     dgv_evListesi.DataSource = YeniEvEkleForm.evListesi;
                 }
@@ -67,6 +74,8 @@ namespace EmlakOtomasyonGui
 
                 int selectedIndex = dgv_evListesi.CurrentRow.Index;
                 Ev selectedEv = YeniEvEkleForm.evListesi[selectedIndex];
+
+                YeniEvEkleForm.DosyayaKaydet(); // save data to file
 
 
                 EvDuzenleForm evDuzenleForm = new EvDuzenleForm(selectedEv, selectedIndex);

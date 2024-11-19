@@ -18,12 +18,10 @@ namespace EmlakOtomasyonGui
 
         private void btn_sorgula_Click(object sender, EventArgs e)
         {
-            
-                EvleriListeleForm evleriListeleForm = new EvleriListeleForm();
-                evleriListeleForm.ShowDialog();
-            
-                MessageBox.Show($"An error occurred: ", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            
+
+            EvleriListeleForm evleriListeleForm = new EvleriListeleForm();
+            evleriListeleForm.ShowDialog();
+
         }
     }
 }

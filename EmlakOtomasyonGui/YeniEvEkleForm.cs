@@ -14,13 +14,17 @@ namespace EmlakOtomasyonGui
 {
     public partial class YeniEvEkleForm : Form
     {
-        private static readonly string SatilikFilePath = "satilik.txt";
-        private static readonly string KiralikFilePath = "kiralik.txt";
 
         public YeniEvEkleForm()
         {
             InitializeComponent();
         }
+
+
+        private static readonly string BasePath = @"C:\Users\OZANCRP\source\repos\emlak_otomasyonu";
+        private static readonly string KiralikFilePath = System.IO.Path.Combine(BasePath, "kiralik.txt");
+        private static readonly string SatilikFilePath = System.IO.Path.Combine(BasePath, "satilik.txt");
+
 
         public static List<Ev> evListesi = new List<Ev>();
 
@@ -56,6 +60,7 @@ namespace EmlakOtomasyonGui
                 }
 
                 MessageBox.Show("Ev başarıyla eklendi", "Başarılı", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                DosyayaKaydet();
                 this.Close();
             }
             catch (Exception ex)
@@ -77,7 +82,7 @@ namespace EmlakOtomasyonGui
 
         private void rdb_satilik_CheckedChanged(object sender, EventArgs e)
         {
-            if (rdb_satilik.Checked) 
+            if (rdb_satilik.Checked)
             {
                 lbl_depozito.Visible = false;
                 txt_depozito.Visible = false;
@@ -85,5 +90,84 @@ namespace EmlakOtomasyonGui
                 txt_fiyat.Visible = true;
             }
         }
+
+        public static void DosyayaKaydet()
+        {
+            using (StreamWriter writer = new StreamWriter(KiralikFilePath, false))
+            {
+                foreach (var ev in evListesi)
+                {
+                    if (ev is KiralikEv kiralikEv)
+                    {
+                        writer.WriteLine($"{kiralikEv.OdaSayisi},{kiralikEv.KatNumarasi},{kiralikEv.Semti},{kiralikEv.Alani},{kiralikEv.YapimTarihi},{kiralikEv.Turu},{kiralikEv.EmlakNumarasi},{kiralikEv.Depozito}");
+                    }
+                }
+            }
+
+            using (StreamWriter writer = new StreamWriter(SatilikFilePath, false))
+            {
+                foreach (var ev in evListesi)
+                {
+                    if (ev is SatilikEv satilikEv)
+                    {
+                        writer.WriteLine($"{satilikEv.OdaSayisi},{satilikEv.KatNumarasi},{satilikEv.Semti},{satilikEv.Alani},{satilikEv.YapimTarihi},{satilikEv.Turu},{satilikEv.EmlakNumarasi},{satilikEv.Fiyat}");
+                    }
+                }
+            }
+        }
+
+
+        public static void DosyadanOku()
+        {
+            evListesi.Clear();
+
+            if (File.Exists(KiralikFilePath))
+            {
+                using (StreamReader reader = new StreamReader(KiralikFilePath))
+                {
+                    string line;
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        string[] data = line.Split(',');
+                        KiralikEv kiralikEv = new KiralikEv(
+                            odaSayisi: int.Parse(data[0]),
+                            katNumarasi: int.Parse(data[1]),
+                            semti: data[2],
+                            alani: double.Parse(data[3]),
+                            yapimTarihi: int.Parse(data[4]),
+                            turu: (EmlakTuru)Enum.Parse(typeof(EmlakTuru), data[5]),
+                            emlakNumarasi: int.Parse(data[6]),
+                            depozito: double.Parse(data[7])
+                        );
+                        evListesi.Add(kiralikEv);
+                    }
+                }
+            }
+
+
+            if (File.Exists(SatilikFilePath))
+            {
+                using (StreamReader reader = new StreamReader(SatilikFilePath))
+                {
+                    string line;
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        string[] data = line.Split(',');
+                        SatilikEv satilikEv = new SatilikEv(
+                            odaSayisi: int.Parse(data[0]),
+                            katNumarasi: int.Parse(data[1]),
+                            semti: data[2],
+                            alani: double.Parse(data[3]),
+                            yapimTarihi: int.Parse(data[4]),
+                            turu: (EmlakTuru)Enum.Parse(typeof(EmlakTuru), data[5]),
+                            emlakNumarasi: int.Parse(data[6]),
+                            fiyat: double.Parse(data[7])
+                        );
+                        evListesi.Add(satilikEv);
+                    }
+                }
+            }
+        }
+
     }
 }
