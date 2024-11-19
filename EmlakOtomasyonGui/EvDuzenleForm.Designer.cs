@@ -53,7 +53,7 @@
             // rdb_satilik
             // 
             rdb_satilik.AutoSize = true;
-            rdb_satilik.Location = new Point(477, 294);
+            rdb_satilik.Location = new Point(483, 292);
             rdb_satilik.Name = "rdb_satilik";
             rdb_satilik.Size = new Size(56, 19);
             rdb_satilik.TabIndex = 24;
@@ -65,7 +65,7 @@
             // rdb_kiralik
             // 
             rdb_kiralik.AutoSize = true;
-            rdb_kiralik.Location = new Point(375, 294);
+            rdb_kiralik.Location = new Point(409, 292);
             rdb_kiralik.Name = "rdb_kiralik";
             rdb_kiralik.Size = new Size(57, 19);
             rdb_kiralik.TabIndex = 23;
@@ -127,7 +127,7 @@
             // 
             // btn_kaydet
             // 
-            btn_kaydet.Location = new Point(267, 339);
+            btn_kaydet.Location = new Point(267, 358);
             btn_kaydet.Name = "btn_kaydet";
             btn_kaydet.Size = new Size(272, 43);
             btn_kaydet.TabIndex = 15;
@@ -148,7 +148,7 @@
             // 
             lbl_fiyat.AccessibleDescription = "Show only if satilik selected";
             lbl_fiyat.AutoSize = true;
-            lbl_fiyat.Location = new Point(267, 231);
+            lbl_fiyat.Location = new Point(267, 225);
             lbl_fiyat.Name = "lbl_fiyat";
             lbl_fiyat.Size = new Size(38, 15);
             lbl_fiyat.TabIndex = 12;
@@ -158,7 +158,7 @@
             // 
             lbl_depozito.AccessibleDescription = "Show only if kiralik selected";
             lbl_depozito.AutoSize = true;
-            lbl_depozito.Location = new Point(267, 231);
+            lbl_depozito.Location = new Point(267, 257);
             lbl_depozito.Name = "lbl_depozito";
             lbl_depozito.Size = new Size(60, 15);
             lbl_depozito.TabIndex = 11;
@@ -167,7 +167,7 @@
             // lbl_durum
             // 
             lbl_durum.AutoSize = true;
-            lbl_durum.Location = new Point(267, 296);
+            lbl_durum.Location = new Point(267, 289);
             lbl_durum.Name = "lbl_durum";
             lbl_durum.Size = new Size(72, 15);
             lbl_durum.TabIndex = 10;
@@ -176,7 +176,7 @@
             // lbl_turu
             // 
             lbl_turu.AutoSize = true;
-            lbl_turu.Location = new Point(267, 188);
+            lbl_turu.Location = new Point(267, 193);
             lbl_turu.Name = "lbl_turu";
             lbl_turu.Size = new Size(37, 15);
             lbl_turu.TabIndex = 9;
@@ -185,7 +185,7 @@
             // lbl_yapımTarihi
             // 
             lbl_yapımTarihi.AutoSize = true;
-            lbl_yapımTarihi.Location = new Point(267, 158);
+            lbl_yapımTarihi.Location = new Point(267, 161);
             lbl_yapımTarihi.Name = "lbl_yapımTarihi";
             lbl_yapımTarihi.Size = new Size(77, 15);
             lbl_yapımTarihi.TabIndex = 8;
@@ -194,7 +194,7 @@
             // lbl_alani
             // 
             lbl_alani.AutoSize = true;
-            lbl_alani.Location = new Point(267, 127);
+            lbl_alani.Location = new Point(267, 129);
             lbl_alani.Name = "lbl_alani";
             lbl_alani.Size = new Size(40, 15);
             lbl_alani.TabIndex = 7;
@@ -203,7 +203,7 @@
             // lbl_semti
             // 
             lbl_semti.AutoSize = true;
-            lbl_semti.Location = new Point(267, 87);
+            lbl_semti.Location = new Point(267, 97);
             lbl_semti.Name = "lbl_semti";
             lbl_semti.Size = new Size(43, 15);
             lbl_semti.TabIndex = 6;
@@ -212,7 +212,7 @@
             // lbl_katNumarasi
             // 
             lbl_katNumarasi.AutoSize = true;
-            lbl_katNumarasi.Location = new Point(267, 58);
+            lbl_katNumarasi.Location = new Point(267, 65);
             lbl_katNumarasi.Name = "lbl_katNumarasi";
             lbl_katNumarasi.Size = new Size(84, 15);
             lbl_katNumarasi.TabIndex = 13;
@@ -221,7 +221,7 @@
             // lbl_odaSayisi
             // 
             lbl_odaSayisi.AutoSize = true;
-            lbl_odaSayisi.Location = new Point(267, 33);
+            lbl_odaSayisi.Location = new Point(267, 25);
             lbl_odaSayisi.Name = "lbl_odaSayisi";
             lbl_odaSayisi.Size = new Size(67, 15);
             lbl_odaSayisi.TabIndex = 5;

@@ -14,6 +14,9 @@ namespace EmlakOtomasyonGui
 {
     public partial class YeniEvEkleForm : Form
     {
+        private static readonly string SatilikFilePath = "satilik.txt";
+        private static readonly string KiralikFilePath = "kiralik.txt";
+
         public YeniEvEkleForm()
         {
             InitializeComponent();
@@ -49,9 +52,11 @@ namespace EmlakOtomasyonGui
                 {
                     double fiyat = double.Parse(txt_fiyat.Text);
                     SatilikEv satilikEv = new SatilikEv(odaSayisi, katNumarasi, semti, alani, yapimTarihi, emlakTuru, emlakNumarasi, fiyat);
+                    evListesi.Add(satilikEv);
                 }
 
                 MessageBox.Show("Ev başarıyla eklendi", "Başarılı", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                this.Close();
             }
             catch (Exception ex)
             {

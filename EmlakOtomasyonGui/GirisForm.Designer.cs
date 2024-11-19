@@ -50,6 +50,7 @@
             txt_kullaniciAdi.Name = "txt_kullaniciAdi";
             txt_kullaniciAdi.Size = new Size(181, 23);
             txt_kullaniciAdi.TabIndex = 1;
+            txt_kullaniciAdi.Text = "admin";
             // 
             // lbl_sifre
             // 
@@ -71,12 +72,13 @@
             // 
             // btn_girisYap
             // 
+            btn_girisYap.BackColor = SystemColors.Control;
             btn_girisYap.Location = new Point(256, 272);
             btn_girisYap.Name = "btn_girisYap";
             btn_girisYap.Size = new Size(289, 42);
             btn_girisYap.TabIndex = 2;
             btn_girisYap.Text = "Giriş Yap";
-            btn_girisYap.UseVisualStyleBackColor = true;
+            btn_girisYap.UseVisualStyleBackColor = false;
             btn_girisYap.Click += btn_girisYap_Click;
             // 
             // GirisForm

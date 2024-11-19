@@ -27,9 +27,9 @@ namespace EmlakOtomasyonGui
             {
                 // Login logic
                 MessageBox.Show("Giriş başarılı!", "Başarılı", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                Form1 mainForm = new Form1();
-                mainForm.Show();
-                this.Hide(); // Hide the login form
+                this.Hide();
+                AnaEkran anaEkran = new AnaEkran();
+                anaEkran.ShowDialog();
             }
             else
             {

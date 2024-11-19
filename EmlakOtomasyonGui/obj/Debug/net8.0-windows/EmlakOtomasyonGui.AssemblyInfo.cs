@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmlakOtomasyonGui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d48849ee5e87fa15ac1f6de8d1b692c8ad99590")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmlakOtomasyonGui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmlakOtomasyonGui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

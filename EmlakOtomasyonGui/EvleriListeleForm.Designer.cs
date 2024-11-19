@@ -40,44 +40,49 @@
             dgv_evListesi.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dgv_evListesi.Location = new Point(12, 12);
             dgv_evListesi.Name = "dgv_evListesi";
-            dgv_evListesi.Size = new Size(639, 323);
+            dgv_evListesi.Size = new Size(1141, 371);
             dgv_evListesi.TabIndex = 0;
             // 
             // btn_yenile
             // 
-            btn_yenile.Location = new Point(131, 394);
+            btn_yenile.BackColor = SystemColors.Control;
+            btn_yenile.Location = new Point(12, 406);
             btn_yenile.Name = "btn_yenile";
-            btn_yenile.Size = new Size(75, 23);
+            btn_yenile.Size = new Size(113, 32);
             btn_yenile.TabIndex = 1;
             btn_yenile.Text = "Yenile";
-            btn_yenile.UseVisualStyleBackColor = true;
+            btn_yenile.UseVisualStyleBackColor = false;
             btn_yenile.Click += btn_yenile_Click;
             // 
             // btn_düzenle
             // 
-            btn_düzenle.Location = new Point(212, 394);
+            btn_düzenle.BackColor = SystemColors.ControlDark;
+            btn_düzenle.FlatAppearance.BorderColor = Color.Black;
+            btn_düzenle.FlatAppearance.BorderSize = 5;
+            btn_düzenle.Location = new Point(141, 406);
             btn_düzenle.Name = "btn_düzenle";
-            btn_düzenle.Size = new Size(75, 23);
+            btn_düzenle.Size = new Size(113, 32);
             btn_düzenle.TabIndex = 1;
             btn_düzenle.Text = "Düzenle";
-            btn_düzenle.UseVisualStyleBackColor = true;
+            btn_düzenle.UseVisualStyleBackColor = false;
             btn_düzenle.Click += btn_düzenle_Click;
             // 
             // btn_sil
             // 
-            btn_sil.Location = new Point(293, 394);
+            btn_sil.BackColor = Color.IndianRed;
+            btn_sil.Location = new Point(270, 406);
             btn_sil.Name = "btn_sil";
-            btn_sil.Size = new Size(75, 23);
+            btn_sil.Size = new Size(113, 32);
             btn_sil.TabIndex = 1;
             btn_sil.Text = "Sil";
-            btn_sil.UseVisualStyleBackColor = true;
+            btn_sil.UseVisualStyleBackColor = false;
             btn_sil.Click += btn_sil_Click;
             // 
             // EvleriListeleForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1167, 450);
             Controls.Add(btn_sil);
             Controls.Add(btn_düzenle);
             Controls.Add(btn_yenile);
